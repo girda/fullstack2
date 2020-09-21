@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5fad34c-70a4-42a5-a2de-8d2781d93df4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fullstack" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UvAp3jw4Le9pYZpYuVEEHcShNX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="ics" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/client/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\fullstack\client\src\app\order-page" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5fad34c-70a4-42a5-a2de-8d2781d93df4" name="Default" comment="" />
+      <created>1570782814875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570782814875</updated>
+      <workItem from="1570782820478" duration="498000" />
+      <workItem from="1570783330103" duration="121645000" />
+      <workItem from="1573719618353" duration="603000" />
+      <workItem from="1573736498495" duration="24000" />
+      <workItem from="1574338090289" duration="1050000" />
+      <workItem from="1574845273278" duration="599000" />
+      <workItem from="1574848972609" duration="10000" />
+      <workItem from="1575018116761" duration="674000" />
+      <workItem from="1575286280687" duration="616000" />
+      <workItem from="1576168077593" duration="231000" />
+      <workItem from="1576226882951" duration="118000" />
+      <workItem from="1576227011036" duration="2399000" />
+      <workItem from="1576241347128" duration="20132000" />
+      <workItem from="1580374289017" duration="20986000" />
+      <workItem from="1580744935425" duration="1520000" />
+      <workItem from="1580746866542" duration="3565000" />
+      <workItem from="1580889362734" duration="1554000" />
+      <workItem from="1580894482899" duration="20455000" />
+      <workItem from="1581431324749" duration="4374000" />
+      <workItem from="1581669358733" duration="8731000" />
+      <workItem from="1582899423145" duration="1244000" />
+      <workItem from="1583146966593" duration="599000" />
+      <workItem from="1583222924217" duration="2635000" />
+      <workItem from="1592298330038" duration="11942000" />
+      <workItem from="1595921416765" duration="16269000" />
+      <workItem from="1596526269174" duration="8027000" />
+      <workItem from="1596630317479" duration="21609000" />
+      <workItem from="1597302648953" duration="536000" />
+      <workItem from="1597304428880" duration="19278000" />
+      <workItem from="1597394721759" duration="6372000" />
+      <workItem from="1597413916592" duration="3001000" />
+      <workItem from="1597732219668" duration="6267000" />
+      <workItem from="1598973913997" duration="8185000" />
+      <workItem from="1599201640908" duration="2665000" />
+      <workItem from="1599474545943" duration="599000" />
+      <workItem from="1599481897601" duration="1289000" />
+      <workItem from="1599484036046" duration="12489000" />
+      <workItem from="1599806298318" duration="2596000" />
+      <workItem from="1600178866077" duration="3190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/client/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
