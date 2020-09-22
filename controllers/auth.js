@@ -38,8 +38,9 @@ module.exports.login = async (req, res) => {
 
 module.exports.register = async (req, res) => {
     // email password
+    console.log(req)
     const candidate = await User.findOne({email: req.body.email});
-
+    console.log(candidate)
     if (candidate) {
         // Пользователь существует
         res.status(409).json({
